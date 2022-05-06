@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    width: 60vmax;
+    
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 10vh;
+}
+a{
+    margin: 10px;
+}
