@@ -1,8 +1,10 @@
 body {
     margin: auto;
     width: 60vmax;
+    background-color:#EBCFC4;
     
 }
+
 
 .skills {
     display: flex;
@@ -12,4 +14,8 @@ body {
 }
 a{
     margin: 10px;
+}
+
+#lang_wrap {
+    float: right;
 }
